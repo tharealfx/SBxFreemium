@@ -3044,9 +3044,9 @@ function Library:CreateWindow(...)
         {text = " FX ", color = Color3.fromRGB(255, 255, 255)},
         {text = "Scripts", color = Color3.fromRGB(5, 95, 210)},
         {text = "  |  ", color = Color3.fromRGB(255, 255, 255)},
-		{text = "Freemium", color = Color3.fromRGB(5, 95, 210)},
+		{text = "discord.gg/Neqa57vzHr", color = Color3.fromRGB(255, 255, 255)},
 		{text = "  |  ", color = Color3.fromRGB(255, 255, 255)},
-		{text = "discord.gg/Neqa57vzHr", color = Color3.fromRGB(5, 95, 210)},
+		{text = "Freemium", color = Color3.fromRGB(5, 95, 210)},
         {text = "  |  ", color = Color3.fromRGB(255, 255, 255)},
 		{text = "SouthBronx", color = Color3.fromRGB(255, 255, 255)},
     }
